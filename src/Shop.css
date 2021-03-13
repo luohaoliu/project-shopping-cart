@@ -1,0 +1,56 @@
+
+
+h1{
+    font-family: monospace;
+    color: rgb(156, 156, 250);
+    left: 28%;
+    position: absolute;
+}
+
+h2 {
+    font-family: monospace;
+    color: rgb(246, 199, 252);
+    left: 80%;
+    position: absolute;
+
+}
+
+button.up-button {
+    display: inline-block;
+    position: relative;
+}
+
+
+.shopping-cart {
+    position: absolute;
+    left: 90%;
+    top: 4.5%;
+}
+
+#food-background {
+
+    position: absolute;
+    top:20%;
+    left:5%;
+    width: 90%;
+    height: 70%;
+    
+}
+
+.individual-image {
+    position: relative;
+    width:18%;
+    float:left;
+    top: 10px;
+    left: 50px;
+    max-width:100%;
+    
+    
+}
+
+button {
+    background-color: rgb(228, 228, 252);
+    border: rgb(211, 211, 253);
+}
+
+
